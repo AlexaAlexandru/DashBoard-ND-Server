@@ -16,6 +16,20 @@
 # Mono auto generated files
 mono_crash.*
 
+# Visual Studio temporary files
+*.obj
+*.pdb
+*.cache
+*.dll
+*.exe
+*.log
+*.bin
+*.bak
+
+# Visual Studio cache files
+*.ipch/
+*.vs/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
