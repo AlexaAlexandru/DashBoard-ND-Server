@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/DashBoard-ND_API.props" />
-</Project>

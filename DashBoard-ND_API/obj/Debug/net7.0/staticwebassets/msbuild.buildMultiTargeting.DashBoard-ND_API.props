@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/DashBoard-ND_API.props" />
-</Project>
