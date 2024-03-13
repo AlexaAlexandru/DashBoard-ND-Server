@@ -16,6 +16,27 @@
 # Mono auto generated files
 mono_crash.*
 
+# Visual Studio for Mac
+.vs/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*/bin/
+*/obj/
+*.userprefs
+*.suo
+*.user
+*.pidb
+*.userprefs
+*.DS_Store
+*.bak
+*.vscode/
+
+
 # Visual Studio temporary files
 *.obj
 *.pdb
